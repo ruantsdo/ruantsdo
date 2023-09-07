@@ -1,7 +1,7 @@
 ## Hey, I'm Ruan Tiago
 
 | 👨‍💻 FrontEnd Developer |
-🧑‍💻 Computer lover
+🧑‍💻 Computer lover |
 
 ## My Portifolio 🌟
 
