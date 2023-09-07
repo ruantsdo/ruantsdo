@@ -1,6 +1,6 @@
 ## Hey, I'm Ruan Tiago
 
-👨‍💻 FrontEnd Developer
+| 👨‍💻 FrontEnd Developer |
 🧑‍💻 Computer lover
 
 ## My Portifolio 🌟
