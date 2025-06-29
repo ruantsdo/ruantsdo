@@ -37,18 +37,15 @@ resolução de problemas e o aprimoramento de plataformas digitais, com foco no 
 
 ### 📊 Estatísticas
 
-<div  display="inline-block">
+<p align="center">
   <img
-    align="left"
     alt="GitHub Stats"
     height="200"
-    style="padding-right: 5px;"
     src="https://github-readme-stats.vercel.app/api?username=ruantsdo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide=stars"
   />
-<img
-      align="left"
-      alt="GitHub Stats"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruantsdo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  <img
+    alt="Top Langs"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruantsdo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-</div>
+</p>
